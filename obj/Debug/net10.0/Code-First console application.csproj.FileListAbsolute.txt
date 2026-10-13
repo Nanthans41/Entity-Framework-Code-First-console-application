@@ -1,0 +1,38 @@
+C:\Code-First console application\Code-First console application\obj\Debug\net10.0\Code-First console application.csproj.AssemblyReference.cache
+C:\Code-First console application\Code-First console application\obj\Debug\net10.0\Code-First console application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code-First console application\Code-First console application\obj\Debug\net10.0\Code-First console application.AssemblyInfoInputs.cache
+C:\Code-First console application\Code-First console application\obj\Debug\net10.0\Code-First console application.AssemblyInfo.cs
+C:\Code-First console application\Code-First console application\obj\Debug\net10.0\Code-First console application.csproj.CoreCompileInputs.cache
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\Code-First console application.exe
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\Code-First console application.deps.json
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\Code-First console application.runtimeconfig.json
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\Code-First console application.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\Code-First console application.pdb
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\EntityFramework.SqlServer.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\EntityFramework.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\System.CodeDom.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\System.Data.SqlClient.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\System.Drawing.Common.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\System.Security.Permissions.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\runtimes\win-arm64\native\sni.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\runtimes\win-x64\native\sni.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\runtimes\win-x86\native\sni.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Code-First console application\Code-First console application\obj\Debug\net10.0\Code-Fir.963841DB.Up2Date
+C:\Code-First console application\Code-First console application\obj\Debug\net10.0\Code-First console application.dll
+C:\Code-First console application\Code-First console application\obj\Debug\net10.0\refint\Code-First console application.dll
+C:\Code-First console application\Code-First console application\obj\Debug\net10.0\Code-First console application.pdb
+C:\Code-First console application\Code-First console application\obj\Debug\net10.0\Code-First console application.genruntimeconfig.cache
+C:\Code-First console application\Code-First console application\obj\Debug\net10.0\ref\Code-First console application.dll
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\App.config
+C:\Code-First console application\Code-First console application\bin\Debug\net10.0\Code-First console application.dll.config
